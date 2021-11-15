@@ -11,7 +11,7 @@
     ],
     "title": "Disappearing lands",
     "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
-    "icon": "iconfile1.png"
+    "icon": "https://github.com/openearth/bed-stories/blob/main/images/story-image.png"
   },
   {
     "ID": "Shoreline_2",
@@ -22,7 +22,7 @@
     ],
     "title": "More disappearing lands",
     "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
-    "icon": "iconfile2.png"
+    "icon": "https://github.com/openearth/bed-stories/blob/main/images/story-image.png"
   },
   {
     "ID": "Shoreline_3",
@@ -33,6 +33,6 @@
     ],
     "title": "No more land left!",
     "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
-    "icon": "iconfile3.jpg"
+    "icon": "https://github.com/openearth/bed-stories/blob/main/images/story-image.png"
   }
 ]
