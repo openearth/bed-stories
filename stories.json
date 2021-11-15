@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "Shoreline_1",
+    "theme": [
+      {
+        "name": "Coastal Management"
+      },
+      {
+        "name": "Flooding"
+      }
+    ],
+    "title": "Disappearing lands",
+    "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+    "icon": "iconfile1.png"
+  },
+  {
+    "ID": "Shoreline_2",
+    "theme": [
+      {
+        "name": "Coastal Management"
+      }
+    ],
+    "title": "More disappearing lands",
+    "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+    "icon": "iconfile2.png"
+  },
+  {
+    "ID": "Shoreline_3",
+    "theme": [
+      {
+        "name": "Flooding"
+      }
+    ],
+    "title": "No more land left!",
+    "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+    "icon": "iconfile3.jpg"
+  }
+]
