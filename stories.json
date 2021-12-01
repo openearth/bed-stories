@@ -1,38 +1,38 @@
 [
   {
-    "ID": "Shoreline_1",
-    "theme": [
+    "id": "Coastal_Management",
+    "theme": "Coastal Management",
+    "stories": [
       {
-        "name": "Coastal Management"
+        "ID": "Shoreline_1",
+        "title": "Disappearing lands",
+        "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/story-image.png"
       },
       {
-        "name": "Flooding"
+        "ID": "Shoreline_2",
+        "title": "More disappearing lands",
+        "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/story-image.png"
       }
-    ],
-    "title": "Disappearing lands",
-    "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
-    "icon": "https://github.com/openearth/bed-stories/blob/main/images/story-image.png"
+    ]
   },
   {
-    "ID": "Shoreline_2",
-    "theme": [
+    "id": "Flooding",
+    "theme": "Flooding",
+    "stories": [
       {
-        "name": "Coastal Management"
-      }
-    ],
-    "title": "More disappearing lands",
-    "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
-    "icon": "https://github.com/openearth/bed-stories/blob/main/images/story-image.png"
-  },
-  {
-    "ID": "Shoreline_3",
-    "theme": [
+        "ID": "Shoreline_1",
+        "title": "Disappearing lands",
+        "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/story-image.png"
+      },
       {
-        "name": "Flooding"
+        "ID": "Shoreline_3",
+        "title": "No more land left!",
+        "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/story-image.png"
       }
-    ],
-    "title": "No more land left!",
-    "URL": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
-    "icon": "https://github.com/openearth/bed-stories/blob/main/images/story-image.png"
+    ]
   }
 ]
