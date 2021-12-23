@@ -10,5 +10,17 @@
         "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/disappearing_lands.png"
       }
     ]
+  },
+  {
+    "id": "Flooding",
+    "theme": "Flooding",
+    "stories": [
+      {
+        "ID": "Flooding_1",
+        "title": "Forecasting ocean currents",
+        "URL": "https://storymaps.arcgis.com/stories/48a4b17206a842f58a62b50be05227cd",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/forecasting_currents.png"
+      }
+    ]
   }
 ]
