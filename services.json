@@ -1,14 +1,20 @@
 [
   {
     "id": "Service_1",
-    "description": "My great service"
+    "name": "MetOcean services",
+    "description": "My great service 1",
+    "dataSet": "wv"
   },
   {
     "id": "Service_2",
-    "description": "My great service"
+    "name": "GLOSSIS",
+    "description": "My great service 2",
+    "dataSet": "wl"
   },
   {
     "id": "Service_3",
-    "description": "My great service"
+    "name": "River ice",
+    "description": "My great service 3",
+    "dataSet": "wv"
   }
 ]
