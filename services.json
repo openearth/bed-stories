@@ -2,19 +2,19 @@
   {
     "id": "Service_1",
     "name": "MetOcean services",
-    "description": "My great service 1",
-    "dataSet": "wv"
+    "description": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
+    "dataSet": "wv",
   },
   {
     "id": "Service_2",
     "name": "GLOSSIS",
-    "description": "My great service 2",
+    "description": "https://storymaps.arcgis.com/stories/48a4b17206a842f58a62b50be05227cd",
     "dataSet": "wl"
   },
   {
     "id": "Service_3",
     "name": "River ice",
-    "description": "My great service 3",
+    "description": "https://storymaps.arcgis.com/stories/d43f810c45a44655863cad176a97a6e4",
     "dataSet": "wv"
   }
 ]
