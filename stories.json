@@ -1,5 +1,17 @@
 [
   {
+    "id": "Toxic_Water_Stress",
+    "theme": "Toxic Water Stress",
+    "stories": [
+      {
+        "ID": "Toxic_Water_Stress_1",
+        "title": "Increasing toxic stress",
+        "URL": "https://storymaps.arcgis.com/stories/56dfb5b91a324d5bac1d27abae2458a4",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/toxic_stress.png"
+      }
+    ]
+  },
+  {
     "id": "Coastal_Management",
     "theme": "Coastal Management",
     "stories": [
