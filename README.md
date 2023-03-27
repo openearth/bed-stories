@@ -24,7 +24,7 @@
 7. Commit to main and push to origin.
 8. Check that everything is as expected in https://blueearthdata.org/stories
 
-**The following themes are availble**
+**The following themes are available**
 * Flooding
 * Coastal Management
 * Offshore
