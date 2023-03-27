@@ -21,4 +21,9 @@
     ]
     },
 ```
-7. In git, commit to main and push to origin.
+7. Commit to main and push to origin.
+8. Check that everything is as expected in https://blueearthdata.org/stories
+
+### Known issues
+- Stories page doesn't scroll.
+- Changes may take a while to reflect due to caching - clear cache if necessary.
