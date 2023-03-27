@@ -1,5 +1,17 @@
 [
   {
+    "id": "Coastal_Flood_Risk",
+    "theme": "Flooding",
+    "stories": [
+      {
+        "ID": "Coastal_Flood_Risk",
+        "title": "Population at risk from coastal flooding",
+        "URL": "https://storymaps.arcgis.com/stories/0dddaf30b27247e9ac18ae199452ea09",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/coastal_flood_risk.jpeg"
+      }
+    ]
+  },
+  {
     "id": "Toxic_Water_Stress",
     "theme": "Toxic Water Stress",
     "stories": [
