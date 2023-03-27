@@ -7,7 +7,7 @@
 4. Copy the icon you created to the folder `bed-stories/images/`.
 5. Open `stories.json` in your preferred text editor.
 6. Add a new entry at the top of the `stories.json` file:
-
+```
     {
     "id": "<insert id>",
     "theme": "<insert theme>",
@@ -20,5 +20,5 @@
       }
     ]
     },
-
+```
 7. In git, commit to main and push to origin.
