@@ -21,4 +21,4 @@
     ]
     },
 
-7. Commit to main and push
+7. In git, commit to main and push to origin.
