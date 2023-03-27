@@ -10,7 +10,7 @@
 ```
     {
     "id": "<insert id>",
-    "theme": "<insert theme>",
+    "theme": "<insert theme>", # see below available themes
     "stories": [
       {
         "ID": "<insert aplha-numeric-id>",
@@ -23,6 +23,16 @@
 ```
 7. Commit to main and push to origin.
 8. Check that everything is as expected in https://blueearthdata.org/stories
+
+**The following themes are availble**
+* Flooding
+* Coastal Management
+* Offshore
+* Water availability
+* Water quality
+* North Sea
+* Coastal flood risk
+* Small island states
 
 ### Known issues
 - Stories page doesn't scroll.
