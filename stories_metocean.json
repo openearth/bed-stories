@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Metocean",
+    "theme": "Metocean",
+    "stories": [
+      {
+        "ID": "Metocean",
+        "title": "Provinding metocean data for the Princess Elisabeth Zone",
+        "URL": "https://storymaps.arcgis.com/stories/2d398b8c487545158c52b195cf2429da",
+        "icon": "https://raw.githubusercontent.com/openearth/bed-stories/main/images/metocean.png"
+      }
+    ]
+  }
+]
